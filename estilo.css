@@ -84,3 +84,7 @@ main{
 .conf-color-3-b{
     background-color: gray;
 }
+
+#prueba{
+    background-color: red!important ;
+}
